@@ -31,7 +31,6 @@ razemWaga = 0
 for x in waga:
     razemWaga += x
 
-
 tablica = [wynikPomidory, wynikSer, wynikSalata]
 i = 0
 razemKalorie = 0
